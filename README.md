@@ -1,7 +1,5 @@
 # IPHONE-Sales-Analysis
 
-iPhone Sales Data Analysis - Exploratory Data Analysis (EDA)
-
 # 📌 Project Overview
 
 This project aims to perform Exploratory Data Analysis (EDA) on iPhone sales data to uncover insights, trends, and patterns.
